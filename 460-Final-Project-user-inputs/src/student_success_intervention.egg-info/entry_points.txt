@@ -1,0 +1,2 @@
+[console_scripts]
+student-success = student_success.cli:main
